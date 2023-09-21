@@ -9,3 +9,5 @@ Me falta:
 -Fuego de la nave joint (o probar otro metodo)
 
 Pantalla de inicio con instrucciones
+
+Borrar código no usado y algunos comentarios
